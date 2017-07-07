@@ -5,3 +5,5 @@ Notes:
 
 1. I used ray casting algorithm, which determines the shading of the closest object from the eye.
 2. I used recursive ray tracing algorithm in which reflection, refraction, and shadow are recursively generated when a ray hits a surface in order to make ray traced images appear more realistic. 
+
+Coursework from UCLA CS174A
